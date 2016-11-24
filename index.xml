@@ -17,11 +17,13 @@
       <guid>http://blog.parallel.link/make-bloging-great-again</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://blog.parallel.link/images/green.jpg&#34; alt=&#34;green&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;偶然在网上发现了&lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;偶然在网上发现了&lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;，Golang实现的静态页面生成器，类似以前用过的&lt;a href=&#34;https://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;。&lt;/p&gt;
 
-&lt;p&gt;本来想用它在服务器上架一个博客，结果读文档发现可以直接部署在&lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt;上，才意识到Hugo本质是一个静态页面生成工具。
-和以前用过的Jekyll类似，但在Windows下使用更加方便。
-即使哪天Github垮掉了，也能方便的把整个博客迁移到自己的服务器上。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugo由Golang实现，可以很方便地在Windows中使用。&lt;/li&gt;
+&lt;li&gt;浏览了一下文档，设置项、插件、主题都很丰富。&lt;/li&gt;
+&lt;li&gt;网站的源码，和通过源码生成的静态页面，都托管在Github上，再也不用像Wordpress一样手动备份MySQL数据。&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;所以，我又开始写博客了。&lt;/p&gt;
 </description>
